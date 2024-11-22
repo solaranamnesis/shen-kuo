@@ -1,6 +1,6 @@
-# Shen Kuo.
+# 沈括 Shen Kuo.
 
-Public Domain Works of Shen Kuo (1031-1095).
+Public Domain Works of 沈括 Shen Kuo (1031-1095).
 
 ## 夢溪筆談 (Dream Pool Essays)
 
