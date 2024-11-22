@@ -2,7 +2,7 @@
 
 Public Domain Works of 沈括 Shen Kuo (1031-1095).
 
-## 夢溪筆談 (Dream Pool Essays)
+## 夢溪筆談 (Dream Pool Essays).
 
 Chinese - Plain Text  
 Chinese - PDF  
