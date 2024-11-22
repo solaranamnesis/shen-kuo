@@ -1,6 +1,6 @@
 # 夢溪筆談 (Dream Pool Essays).
 
-Chinese - Plain Text  
+[Chinese - Plain Text](full-text-chinese.md)  
 Chinese - PDF  
 English - Plain Text  
 English - PDF  
