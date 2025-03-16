@@ -7,4 +7,6 @@ English - PDF
 German - Plain Text  
 German - PDF  
 
+This work is in the public domain and was originally available from Project Gutenberg. For more information, visit [Project Gutenberg's website](https://www.gutenberg.org).
+
 [Chinese Traditional from Project Gutenberg](https://www.gutenberg.org/cache/epub/27292/pg27292-images.html)
